@@ -1,6 +1,6 @@
 
-a = input("First Number? ")
-b = input("Second Number? ")
+a = input("First Number: ")
+b = input("Second Number: ")
 c = float(a)
 d = float(b)
 def Addition(num1, num2):
