@@ -1,6 +1,6 @@
 Yes = "Good Job! Your answer is correct!"
 No = "Oops, You're wrong. Try again."
-OhNo = "Looks like it didn't work. Reload to try again."
+OhNo = "Looks like it didn't work. Please answer with Yes or No. Reload to try again."
 FQ = input("Do you know Python? Type Yes or No. ")
 if FQ == "Yes":
     print("So you know, I'll give you some questions")
